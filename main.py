@@ -12,16 +12,22 @@
 # Use f-strings to print a message like: "In 10 years, [Your Name] will be [Your Age + 10] years old."
 
 
-###########################end bell ringer##################################
+###########################End Bell Ringer##################################
 
+student_one = "Isaac"
+isaac_age = 16
+favorite_color = "green"
+your_name = "Gerardo"
+your_age = 16
 
+print(f"In my AP computer science class {student_one} sits next to me. I asked {student_one} his age and he said he's {isaac_age} years old. {student_one} said that {favorite_color} was his favorite color. ")
 
+print("Gerardo")
+print("August 25th, 2023")
+print("Favorite movie is How to Train your Dragon")
+print("Gerardo\n16 years old")
 
-
-
-
-
-
+print(f"In 10 years, {your_name} will be {your_age+10} years old.")
 
 
 ###########################String Practice##################################
@@ -47,6 +53,8 @@
 # Write Python code that prints the following:
 # Backslash (\)
 # Forward Slash (/)
+###########################End String Practice##################################
+
 
 ##########################input practice#############################################
 # Input Practice #1
@@ -71,3 +79,5 @@
 
 ###########################time for a real challenge!!!!##################################
 # last slide
+
+
