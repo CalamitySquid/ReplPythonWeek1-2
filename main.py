@@ -78,6 +78,8 @@ print(f"In 10 years, {your_name} will be {your_age+10} years old.")
 
 
 ###########################time for a real challenge!!!!##################################
-# last slide
-
+# # last slide
+# brew_type = input("What type of brew do you like? ")
+# phrase = input("What is a word that strands out to you? ")
+# print(f"Aha I got it! You should name your beer {phrase} {brew_type}! I think that'll be good!")
 
